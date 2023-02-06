@@ -1,0 +1,35 @@
+body{
+    background-image:url("../images/four.jpg");;
+}
+
+#educate1{
+    color: white;
+    text-align:end;
+}
+
+#educate1 img {
+    border-width:thick;
+    border-top-left-radius:50% ;
+    border-top-right-radius:50% ;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    width: 300px;
+    height: 250px;
+    align-items: flex-end;
+}
+#educate2{
+    color: white;
+    text-align: left;
+}
+
+#educate2 img {
+    border-width:thick;
+    border-color: white;
+    border-top-left-radius:50% ;
+    border-top-right-radius:50% ;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    width: 300px;
+    height: 250px;
+    align-items: flex-end;
+}

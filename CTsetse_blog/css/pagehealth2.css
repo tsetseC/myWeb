@@ -1,0 +1,22 @@
+
+body
+{
+    
+    background-image: url("../images/heal3.jpg");
+    
+}
+#heal{
+    color: white;
+    text-align: right;
+}
+#heal img {
+    border-width:thick;
+    border-color: white;
+    border-top-left-radius:50% ;
+    border-top-right-radius:50% ;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    width: 300px;
+    height: 250px;
+    align-items: flex-end;
+}
